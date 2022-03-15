@@ -52,3 +52,5 @@ function numberofvowels(inner_vowels_in_str){
 lengthofstr(word);
 numberofword(str);
 numberofvowels(vowels_in_str);
+
+//new update
